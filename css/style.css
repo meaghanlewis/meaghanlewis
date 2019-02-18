@@ -27,7 +27,7 @@ Table of Content:
 08/ services
 09/ blog
 10/ contact
-11/ footer 
+11/ footer
 =====================================================================*/
 /*-------- fonts --------*/
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Poppins:300,400,500,600,700");
@@ -2853,6 +2853,10 @@ section.active {
 }
 .dk-bg .sc-contact .contact-form .form-group .form-control::-webkit-input-placeholder {
   color: #666666;
+}
+
+#honeypot {
+  display: none; /*makes the field not visible to humans*/
 }
 
 /*====================================================*/
