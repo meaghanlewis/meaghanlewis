@@ -4,8 +4,8 @@ I've lived in the San Francisco Bay Area and have worked in tech for about a dec
 
 - 🖥 I’m currently working on creating technical content in the form of: talks, workshops, videos, and more!
 - 💡 I’m _currently_ working on **blockchain** and **Rust**. Here are some of my recent projects:
-  - [Beginner's series to: Blockchain](https://channel9.msdn.com/Series/Beginners-Series-to-Blockchain)
-  - [Microsoft Learn Path](https://docs.microsoft.com/learn/paths/rust-first-steps/)
+  - [Beginner's series to: Blockchain](https://channel9.msdn.com/Series/Beginners-Series-to-Blockchain?WT.mc_id=academic-0000-molewis)
+  - [Microsoft Learn Path](https://docs.microsoft.com/learn/paths/rust-first-steps/?WT.mc_id=academic-0000-molewis)
 - 📖 I'd love to learn more about **cybersecurity** 
 - 🍐 I’m looking to collaborate on creating content and speaking opportunities around emerging technologies.
 - 💬 Ask me about working in tech, career changes, learning new things.
