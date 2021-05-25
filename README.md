@@ -1,4 +1,4 @@
-## Hi there, I'm Meaghan. 👋🏾
+# Hi there, I'm Meaghan. 👋🏾
 
 I've lived in the San Francisco Bay Area and have worked in tech for about a decade now.
 
@@ -13,4 +13,4 @@ I've lived in the San Francisco Bay Area and have worked in tech for about a dec
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two dogs 🐶 named Glitch and Nugget. They are both pitbulls and big cuddlers.
 
-![glitch_and_nugs](https://user-images.githubusercontent.com/10103121/110552724-adb6af00-80ec-11eb-888b-f62f0dc3ab84.jpg)
+![GN_050221](https://user-images.githubusercontent.com/10103121/119545050-2ff75c80-bd47-11eb-9fa1-662524ae15bc.jpg)
