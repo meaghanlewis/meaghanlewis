@@ -2,7 +2,7 @@
 
 I've lived in the San Francisco Bay Area and have worked in tech for about a decade now.
 
-- 🖥 I’m currently working on creating technical content in the form of: talks, workshops, videos, and more!
+- 🖥 I’m creating technical content in the form of: talks, workshops, videos, and more!
 - 💡 I’m _currently_ working on **blockchain** and **Rust**. Here are some of my recent projects:
   - [Beginner's series to: Blockchain](https://channel9.msdn.com/Series/Beginners-Series-to-Blockchain)
   - [Microsoft Learn Path: Take your first steps with Rust](https://docs.microsoft.com/learn/paths/rust-first-steps/)
